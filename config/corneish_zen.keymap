@@ -41,7 +41,7 @@
                 compatible = "zmk,keymap";
                 
                 default_layer {
-                  label = "QWERTY"
+                  label = "QWERTY";
 // -----------------------------------------------------------------------------------------
 // |  Q  |  W  |  E  |  R  |  T   |   |  Y  |  U   |  I  |  O  |  P  |
 // |  A  |  S  |  D  |  F  |  G   |   |  H  |  J   |  K  |  L  |  RETURN  |
@@ -56,7 +56,7 @@
                 };
 
                 sym_layer {
-                  label = "SYMBOL"
+                  label = "SYMBOL";
 // -----------------------------------------------------------------------------------------
 // |  &  |  |  |  {  |  }  |        +       |   |   MACRO_SELECT_RIGHT |  MACRO_SNIP  |  /  |  \  |  ESCAPE  |
 // |  =  |  -  |  (  |  )  |        _       |   |   MACRO_SELECT_LEFT  |        ;     |  `  |  '  |   TRANS  |
@@ -71,7 +71,7 @@
                 };
 
                 num_layer {
-                  label = "NUMBER"
+                  label = "NUMBER";
 // -----------------------------------------------------------------------------------------
 // | NUMBER_1 | NUMBER_2 | NUMBER_3 | NUMBER_4 | NUMBER_5 |   | NUMBER_6 | NUMBER_7 | NUMBER_8 | NUMBER_9 | NUMBER_0 |
 // |   BT_0   |   BT_1   | BT_NEXT  | BT_PREV  | BT_CLEAR |   |   LEFT   |   DOWN   |    UP    |   RIGHT  |   TRANS  |
